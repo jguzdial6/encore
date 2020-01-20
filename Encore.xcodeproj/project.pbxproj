@@ -98,10 +98,10 @@
 			isa = PBXGroup;
 			children = (
 				BAB7C46E22EFEA9F00EE81A0 /* AppDelegate.swift */,
-				BAB7C47022EFEA9F00EE81A0 /* ViewController.swift */,
 				BAB7C47222EFEA9F00EE81A0 /* Main.storyboard */,
 				BAB7C47522EFEAA200EE81A0 /* Assets.xcassets */,
 				BAB7C47722EFEAA200EE81A0 /* LaunchScreen.storyboard */,
+				BAB7C47022EFEA9F00EE81A0 /* ViewController.swift */,
 				BAB7C47A22EFEAA200EE81A0 /* Info.plist */,
 			);
 			path = Encore;
